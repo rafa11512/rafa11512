@@ -1,6 +1,7 @@
 ## Hi, I'm Rafael Piedra 👋
 
-I'm a systems engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/129ba4d9-0071-4613-9e96-fd8f1f96ccce" />
+I'm a systems engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development <img width="5" height="5" alt="image" src="https://github.com/user-attachments/assets/cbc45a2b-5f27-4d98-b57c-4c7b0953db1d" />
+
 
 
 ---
