@@ -4,17 +4,7 @@ Un apasionado desarrollador de software enfocado en crear soluciones creativas, 
 
 ---
 
-## 👨‍💻 Sobre mí
-
-- 🔭 Actualmente trabajando en **[Nombre de tu proyecto, ej: DevHub o el panel administrativo]**
-- 🌱 Explorando y construyendo arquitecturas de alta disponibilidad y sistemas full-stack.
-- 💬 Pregúntame sobre **Desarrollo web, bases de datos o despliegue de aplicaciones**.
-- 📫 Cómo contactarme: **[tu-email@correo.com](mailto:tu-email@correo.com)**
-- 📄 Conoce más sobre mi trayectoria en mi [LinkedIn](https://linkedin.com/in/tu-perfil).
-
----
-
-## 🛠️ Tecnologías y Herramientas
+## My Skills Include
 
 ### Frontend
 <p>
