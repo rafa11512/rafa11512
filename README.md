@@ -1,6 +1,7 @@
 ## Hi, I'm Rafael Piedra 👋
 
-Un apasionado desarrollador de software enfocado en crear soluciones creativas, arquitecturas sólidas y aprender constantemente nuevas tecnologías.
+I'm a systems engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/129ba4d9-0071-4613-9e96-fd8f1f96ccce" />
+
 
 ---
 
@@ -21,7 +22,7 @@ Un apasionado desarrollador de software enfocado en crear soluciones creativas, 
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
-### Bases de Datos
+### Database
 <p>
   <img src="https://img.shields.io/badge/Sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -30,7 +31,7 @@ Un apasionado desarrollador de software enfocado en crear soluciones creativas, 
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### DevOps & Herramientas
+### DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -38,7 +39,7 @@ Un apasionado desarrollador de software enfocado en crear soluciones creativas, 
 
 ---
 <div align="center">
-  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House</i>
+  <i>"#inserte texto explicativo que explique" - si</i>
 </div>
 
 
