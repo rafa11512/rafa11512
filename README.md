@@ -3,6 +3,34 @@
 <p>I'm a systems engineering student, currently halfway through my degree. <br>
 I am passionate about technology and constantly expanding my knowledge in both <strong>front-end</strong> and <strong>back-end</strong> development to build scalable and efficient full-stack applications. 👨‍💻</p>
 
+
+
+
+<!-- Estructura en tabla para poner el About Me al lado de la animación -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Columna Izquierda: About Me -->
+    <td width="55%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>I'm a <strong>systems engineering student</strong>, currently halfway through my degree. 🎓</p>
+      <p>I am passionate about technology and constantly expanding my knowledge in both <strong>front-end</strong> and <strong>back-end</strong> development to build scalable and efficient full-stack applications. 🚀</p>
+      <ul>
+        <li>🔭 Currently learning advanced software architectures.</li>
+        <li>💬 Ask me about development, databases or frameworks.</li>
+        <li>📫 How to reach me: <a href="mailto:tu-email@correo.com">tu-email@correo.com</a></li>
+      </ul>
+    </td>
+    <!-- Columna Derecha: Animación Night Coding -->
+    <td width="45%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding by Jonas Mosesson" width="380" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 ---
 
 ## My Skills Include
