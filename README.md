@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rafael+Piedra+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
+<h1>HI, I'm Rafael Piedra Sanchez 👋</h1> 
 </div>
 
 <br />
@@ -11,7 +11,7 @@
       <p>I'm a <strong>systems engineering student</strong>, currently halfway through my degree.</p>
       <p>I am passionate about technology and constantly expanding my knowledge in both <strong>front-end</strong> and <strong>back-end</strong> development to build scalable and efficient full-stack applications. 👨‍💻</p>
       <ul>
-        <li>How to reach me: <a href="mailto:rafael.piedra115@correo.com">rafael.piedra115@correo.com</a></li>
+        <!--- <li>How to reach me: <a href="mailto:rafael.piedra115@gmail.com">rafael.piedra115@gmail.com</a></li> --->
       </ul>
     </td>
     <td width="45%" valign="middle" align="center" style="border: none;">
