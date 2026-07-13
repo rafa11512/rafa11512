@@ -2,7 +2,9 @@
 
 
 
-I'm a systems engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. 👨‍💻
+I'm a systems engineering student, currently halfway through my degree.
+<p>I am passionate about technology and constantly expanding my knowledge in both <strong>front-end</strong> and <strong>back-end</strong> development to build scalable and efficient full-stack applications. 🚀</p>
+👨‍💻
 
 
 
