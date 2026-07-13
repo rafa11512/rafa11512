@@ -1,11 +1,11 @@
 ## Hi, I'm Rafael Piedra 👋
 
+## About Me
 <!-- Estructura en tabla para poner el About Me al lado de la animación -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- Columna Izquierda: About Me -->
     <td width="55%" valign="top">
-      <h3>About Me</h3>
       <p>I'm a <strong>systems engineering student</strong>, currently halfway through my degree.</p>
       <p>I am passionate about technology and constantly expanding my knowledge in both <strong>front-end</strong> and <strong>back-end</strong> development to build scalable and efficient full-stack applications. 👨‍💻</p>
       <ul>
