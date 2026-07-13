@@ -58,7 +58,6 @@
 ---
 
 <div align="center" style="font-family: monospace; white-space: pre; line-height: 1.2; letter-spacing: 0px;">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br />
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀<br />
 ⠀⠀⠀⢀⡤⠤⡤⠞⠁⠀⡀⠀⠨⡙⠦⡠⠤⠀⠀⠀<br />
 ⠀⠀⠀⡛⢐⠉⡠⠂⠀⡰⠣⣀⠀⠑⠄⠈⡄⢃⠀⠀<br />
