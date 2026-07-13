@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rafael Piedra 👋</h1>
+<h1 center>Hi, I'm Rafael Piedra 👋</h1>
 
 ## About Me
 <!-- Estructura en tabla para poner el About Me al lado de la animación -->
