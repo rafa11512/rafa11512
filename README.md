@@ -1,20 +1,21 @@
-<h1><center>Hi, I'm Rafael Piedra 👋</center></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rafael+Piedra+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
+</div>
 
-## About Me
-<!-- Estructura en tabla para poner el About Me al lado de la animación -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <!-- Columna Izquierda: About Me -->
-    <td width="55%" valign="top">
+<br />
+
+## About me
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
       <p>I'm a <strong>systems engineering student</strong>, currently halfway through my degree.</p>
       <p>I am passionate about technology and constantly expanding my knowledge in both <strong>front-end</strong> and <strong>back-end</strong> development to build scalable and efficient full-stack applications. 👨‍💻</p>
       <ul>
         <li>How to reach me: <a href="mailto:rafael.piedra115@correo.com">rafael.piedra115@correo.com</a></li>
       </ul>
     </td>
-    <!-- Columna Derecha: Animación Night Coding -->
-    <td width="45%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding by Jonas Mosesson" width="380" style="border-radius: 8px;" />
+    <td width="45%" valign="middle" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding by Jonas Mosesson" width="380" />
     </td>
   </tr>
 </table>
