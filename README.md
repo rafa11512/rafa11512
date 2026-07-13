@@ -1,22 +1,51 @@
 ## Hi, I'm Rafael Piedra 👋
+
+Un apasionado desarrollador de software enfocado en crear soluciones creativas, arquitecturas sólidas y aprender constantemente nuevas tecnologías.
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🔭 Actualmente trabajando en **[Nombre de tu proyecto, ej: DevHub o el panel administrativo]**
+- 🌱 Explorando y construyendo arquitecturas de alta disponibilidad y sistemas full-stack.
+- 💬 Pregúntame sobre **Desarrollo web, bases de datos o despliegue de aplicaciones**.
+- 📫 Cómo contactarme: **[tu-email@correo.com](mailto:tu-email@correo.com)**
+- 📄 Conoce más sobre mi trayectoria en mi [LinkedIn](https://linkedin.com/in/tu-perfil).
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Frontend
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+
+### Backend
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+
+### Bases de Datos
+<img src="https://img.shields.io/badge/Sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+### DevOps & Herramientas
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+---
+<div align="center">
+  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House</i>
+</div>
+
+
+
   
 <!--
 **rafa11512/rafa11512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Skills
-
-About Me
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
