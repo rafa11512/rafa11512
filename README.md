@@ -58,15 +58,6 @@
 ---
 
 <div align="center">
-  <i>"#inserte texto explicativo que explique" - si</i>
-</div>
-
-  
-</p>
-
----
-
-<div align="center">
   <i>"Made with me" - probably</i>
 </div>
 
