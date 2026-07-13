@@ -1,7 +1,6 @@
 ## Hi, I'm Rafael Piedra 👋
 
-I'm a systems engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/cbc45a2b-5f27-4d98-b57c-4c7b0953db1d" />
-
+I'm a systems engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. 👨‍💻
 
 
 ---
@@ -18,8 +17,8 @@ I'm a systems engineering student, currently halfway through my degree. I am exp
 
 ### Backend
 <p>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
