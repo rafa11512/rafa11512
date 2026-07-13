@@ -1,8 +1,6 @@
 <div align="center">
-<h1>HI, I'm Rafael Piedra Sanchez 👋</h1> 
+<h1>Hi, I'm Rafael Piedra Sanchez 👋</h1> 
 </div>
-
-<br />
 
 ## About me
 <table style="border: none; border-collapse: collapse; width: 100%;">
