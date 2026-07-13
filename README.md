@@ -58,7 +58,7 @@
 ---
 
 <div align="center">
-  <i>"Made with me" - probably</i>
+  <i>"Made by me" - probably</i>
 </div>
 
 <!--
