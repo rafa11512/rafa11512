@@ -109,6 +109,4 @@
   <i>"Made by me" - probably</i>
 </div>
 
-**rafa11512/rafa11512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 --> 
