@@ -2,7 +2,7 @@
 <h1>Hola, Yo soy Rafael Piedra Sanchez 👋</h1> 
 </div>
 
-## About me
+## Sobre mi
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td width="55%" valign="top" style="border: none; padding-right: 20px;">
@@ -20,7 +20,7 @@
 
 ---
 
-## My Skills Include
+## Mis Habilidades incluyen:
 
 ### Frontend
 <p>
