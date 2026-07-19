@@ -3,7 +3,7 @@
 </div>
 
 ## Sobre mi
-<table style="border: none; border-collapse: collapse; width: 100%;">
+<table style="border: 0; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td width="55%" valign="top" style="border: none; padding-right: 20px;">
       <p>Soy un <strong>estudiante de ingeniería en sistemas</strong>, actualmente a mitad de mi carrera.</p> <p>Me apasiona la tecnología y estoy constantemente ampliando mis conocimientos tanto en <strong>front-end</strong> como en
